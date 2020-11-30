@@ -1,0 +1,9 @@
+D:\Projects\_课程设计\3.C#面向对象程序设计\samples\OOP\ClassLib\bin\Debug\netcoreapp3.1\ClassLib.deps.json
+D:\Projects\_课程设计\3.C#面向对象程序设计\samples\OOP\ClassLib\bin\Debug\netcoreapp3.1\ClassLib.dll
+D:\Projects\_课程设计\3.C#面向对象程序设计\samples\OOP\ClassLib\bin\Debug\netcoreapp3.1\ClassLib.pdb
+D:\Projects\_课程设计\3.C#面向对象程序设计\samples\OOP\ClassLib\obj\Debug\netcoreapp3.1\ClassLib.csproj.CoreCompileInputs.cache
+D:\Projects\_课程设计\3.C#面向对象程序设计\samples\OOP\ClassLib\obj\Debug\netcoreapp3.1\ClassLib.AssemblyInfoInputs.cache
+D:\Projects\_课程设计\3.C#面向对象程序设计\samples\OOP\ClassLib\obj\Debug\netcoreapp3.1\ClassLib.AssemblyInfo.cs
+D:\Projects\_课程设计\3.C#面向对象程序设计\samples\OOP\ClassLib\obj\Debug\netcoreapp3.1\ClassLib.dll
+D:\Projects\_课程设计\3.C#面向对象程序设计\samples\OOP\ClassLib\obj\Debug\netcoreapp3.1\ClassLib.pdb
+D:\Projects\_课程设计\3.C#面向对象程序设计\samples\OOP\ClassLib\obj\Debug\netcoreapp3.1\ClassLib.csprojAssemblyReference.cache
