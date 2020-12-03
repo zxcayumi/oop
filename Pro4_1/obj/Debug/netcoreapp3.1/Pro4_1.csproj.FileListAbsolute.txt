@@ -10,3 +10,4 @@ D:\Projects\_录课视频\3.C#面向对象程序设计\samples\OOP\Pro4_1\obj\De
 D:\Projects\_录课视频\3.C#面向对象程序设计\samples\OOP\Pro4_1\obj\Debug\netcoreapp3.1\Pro4_1.dll
 D:\Projects\_录课视频\3.C#面向对象程序设计\samples\OOP\Pro4_1\obj\Debug\netcoreapp3.1\Pro4_1.pdb
 D:\Projects\_录课视频\3.C#面向对象程序设计\samples\OOP\Pro4_1\obj\Debug\netcoreapp3.1\Pro4_1.genruntimeconfig.cache
+D:\Projects\_录课视频\3.C#面向对象程序设计\samples\OOP\Pro4_1\obj\Debug\netcoreapp3.1\Pro4_1.csprojAssemblyReference.cache
