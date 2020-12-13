@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\oop\\Pro_4.2\\Pro4_2.csproj",
+      "projectUniqueName": "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\OOP\\Pro_4.2\\Pro4_2.csproj",
       "projectName": "Pro4_2",
-      "projectPath": "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\oop\\Pro_4.2\\Pro4_2.csproj",
+      "projectPath": "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\OOP\\Pro_4.2\\Pro4_2.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\oop\\Pro_4.2\\obj\\",
+      "outputPath": "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\OOP\\Pro_4.2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
