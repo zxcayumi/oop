@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\oop\\Pro5_6\\Pro5_6.csproj": {}
+    "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\OOP\\Pro5_6\\Pro5_6.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\oop\\Pro5_6\\Pro5_6.csproj": {
+    "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\OOP\\Pro5_6\\Pro5_6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\oop\\Pro5_6\\Pro5_6.csproj",
+        "projectUniqueName": "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\OOP\\Pro5_6\\Pro5_6.csproj",
         "projectName": "Pro5_6",
-        "projectPath": "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\oop\\Pro5_6\\Pro5_6.csproj",
+        "projectPath": "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\OOP\\Pro5_6\\Pro5_6.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\oop\\Pro5_6\\obj\\",
+        "outputPath": "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\OOP\\Pro5_6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
