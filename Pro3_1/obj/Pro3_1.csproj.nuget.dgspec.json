@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\OOP\\Pro3_1\\Pro3_1.csproj": {}
+    "d:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\oop\\Pro3_1\\Pro3_1.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\OOP\\Pro3_1\\Pro3_1.csproj": {
+    "d:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\oop\\Pro3_1\\Pro3_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\OOP\\Pro3_1\\Pro3_1.csproj",
+        "projectUniqueName": "d:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\oop\\Pro3_1\\Pro3_1.csproj",
         "projectName": "Pro3_1",
-        "projectPath": "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\OOP\\Pro3_1\\Pro3_1.csproj",
+        "projectPath": "d:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\oop\\Pro3_1\\Pro3_1.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\OOP\\Pro3_1\\obj\\",
+        "outputPath": "d:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\oop\\Pro3_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
