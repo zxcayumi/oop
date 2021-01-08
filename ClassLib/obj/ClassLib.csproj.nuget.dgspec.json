@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\oop\\ClassLib\\ClassLib.csproj": {}
+    "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\OOP\\ClassLib\\ClassLib.csproj": {}
   },
   "projects": {
-    "d:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\oop\\ClassLib\\ClassLib.csproj": {
+    "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\OOP\\ClassLib\\ClassLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\oop\\ClassLib\\ClassLib.csproj",
+        "projectUniqueName": "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\OOP\\ClassLib\\ClassLib.csproj",
         "projectName": "ClassLib",
-        "projectPath": "d:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\oop\\ClassLib\\ClassLib.csproj",
+        "projectPath": "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\OOP\\ClassLib\\ClassLib.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\oop\\ClassLib\\obj\\",
+        "outputPath": "D:\\Projects\\_录课视频\\3.C#面向对象程序设计\\samples\\OOP\\ClassLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
