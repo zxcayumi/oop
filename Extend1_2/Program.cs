@@ -21,7 +21,7 @@ namespace Extend1_2
                 case >= 0 and < 3:
                     Console.WriteLine("bady");
                     break;
-                case >= 3 and < 14: 
+                case >= 3 and < 14:
                     Console.WriteLine("child");
                     break;
                 case >= 14 and < 22:
